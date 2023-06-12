@@ -57,7 +57,7 @@ if (isset($_GET["pwdlen"])) {
 
                         </div>
                         <div class="col-4">
-                            <input type="number" name="pwdlen" id="pwdlen" placeholder="Lunghezza password" min="8" max="32" value="8">
+                            <input class="form-control" type="number" name="pwdlen" id="pwdlen" placeholder="Lunghezza password" min="8" max="32" value="8">
                         </div>
                     </div>
 
